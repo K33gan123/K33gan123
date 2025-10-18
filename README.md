@@ -21,21 +21,6 @@ I'm an aspiring Software Engineer currently studying Information and Knowledge S
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-## Featured Projects 💻
-
-### [Analysis Machine](https://github.com/Keeganwa/Analysis-Machine) 🔍
-
-A centralized React API and frontend application that automates two complementary PowerShell programs for forensic analysis of Microsoft 365 and Entra accounts.
-
-**Microsoft-Extractor-Suite**
-- Extracts data from clients' M365 or Entra Accounts and Mailboxes
-
-**Microsoft-Analyzer-Suite**
-- Analyzes files generated from the Extractor and displays data as tangible information
-
-### [NHC Doctor App](https://github.com/NHC-ZA-Development/NHC-Doctor-App) 🏥
-
-Client dashboard developed during my internship at Neozeit, built with PHP and Bootstrap. Allows products to be listed from suppliers and exposed to client doctor portals.
 
 ## Work Experience 💼
 
