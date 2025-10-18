@@ -1,6 +1,6 @@
 # Hi there, I'm Keegan! 👋
 
-![Keegan Walker](https://wallpaperaccess.com/software-development)
+![Keegan Walker]()
 
 ## About Me 🚀
 
