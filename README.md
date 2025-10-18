@@ -34,4 +34,5 @@ I'm an aspiring Software Engineer currently studying Information and Knowledge S
 - [GitHub - Personal](https://github.com/Keeganwa)
 - [GitHub - University](https://github.com/k33gan123)
 - Email: keeganwalker629@gmail.com
+- [Download My CV](https://github.com/K33gan123/K33gan123/blob/main/Keegan%20Walker%20-%20Curriculum%20Vitae.pdf)
 - Location: Gauteng, South Africa
