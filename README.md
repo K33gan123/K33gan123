@@ -26,7 +26,7 @@ I'm an aspiring Software Engineer currently studying Information and Knowledge S
 **Software Development Intern** @ Neozeit (File56)  
 *June 2025 - July 2025*
 - Co-developed client dashboard using PHP and Bootstrap
-- Designed architecture for forensic dashboard applications for Microsoft 365 forensic analysis tools(Microsoft-Suites)
+- Designed architecture for forensic dashboard for analysis tools(Microsoft-Suites)
 
 ## Get in Touch 📬
 
