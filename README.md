@@ -6,7 +6,7 @@
 
 I'm an aspiring Software Engineer currently studying Information and Knowledge Systems at the University of Pretoria. I have a strong foundation in software development principles and enjoy building practical solutions with multiple programming languages. I'm passionate about automation and creating efficient systems.
 
-- 🌱 Currently learning: Advanced web development and React ecosystems
+- 🌱 Currently learning: Advanced web development
 - 🎓 Graduating: 2025
 - ⚡ Fun fact: I was Sportsman of the Year in 2021 and scored 92% in Mathematics 
 
