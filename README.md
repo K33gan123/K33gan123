@@ -8,7 +8,6 @@ I'm an aspiring Software Engineer currently studying Information and Knowledge S
 
 - 🌱 Currently learning: Advanced web development
 - 🎓 Graduating: 2025
-- ⚡ Fun fact: I was Sportsman of the Year in 2021 and scored 92% in Mathematics 
 
 ## My Skills 🧠
 
